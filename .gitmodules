@@ -1,0 +1,3 @@
+[submodule "gir-forclonetesting"]
+	path = gir-forclonetesting
+	url = https://github.com/markydimarky42/git-forclonetesting.git
